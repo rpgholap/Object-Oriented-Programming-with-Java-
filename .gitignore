@@ -1,0 +1,12 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore personal study folders
+Collections/
+End Module Exam OOPJ/
+Revision (End Module)/
+
+# Ignore documents
+*.docx
+*.xlsx
+*.jpg
